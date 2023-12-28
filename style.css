@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(226, 225, 225);
+}
+
+.container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background: white;
+}
+
+.container2 {
+  max-width: 500px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background: white;
+}
+
+.pp {
+  display: flex;
+  gap: 20px;
+  width: 950px;
+  height: 50px;
+  background: rgb(69, 69, 241);
+  padding: 20px;
+  font-size: 10px;
+  margin-top: 50px;
+}
+
+.h {
+  margin-left: 400px;
+}
+
+.search {
+  display: flex;
+  margin-top: 20px;
+}
+
+.search h1 {
+  color: blue;
+}
+
+.ss {
+  display: flex;
+  gap: 50px;
+}
+/* 
+.stri {
+} */
+
+.vv {
+  width: 70px;
+  height: 40px;
+  background: blue;
+  /* margin-left: 70px; */
+  border-radius: 10px;
+  border: none;
+}
+
+.aaaa {
+  color: white;
+  text-decoration: none;
+}
+
+.poisk {
+  margin-left: 100px;
+  border-radius: 10px;
+  width: 400px;
+  border: none;
+  background: rgb(191, 191, 252);
+  padding: 20px;
+  padding: 10px;
+  color: blue;
+}
+
+.firstName1 {
+  margin-top: 10px;
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  background: rgb(144, 144, 250);
+  padding: 10px;
+  color: blue;
+}
+
+.firstName2 {
+  margin-top: 10px;
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  background: rgb(144, 144, 250);
+  padding: 10px;
+  color: blue;
+}
+
+.firstName3 {
+  margin-top: 10px;
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  background: rgb(144, 144, 250);
+  padding: 10px;
+  color: blue;
+}
+
+.firstName4 {
+  margin-top: 10px;
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  background: rgb(144, 144, 250);
+  padding: 10px;
+  color: blue;
+}
+
+.str h1 {
+  font-size: 23px;
+}
+
+.t1 {
+  margin-top: 13px;
+}
+.nazad {
+  text-decoration: none;
+  color: white;
+  margin-top: 5px;
+}
+
+.btn {
+  width: 90px;
+  height: 30px;
+  color: white;
+  background: blue;
+  border: none;
+  border-radius: 10px;
+}
+
+.jj {
+  width: 90px;
+  height: 30px;
+  color: white;
+  background: blue;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.buttons {
+  display: flex;
+  gap: 50px;
+  margin-top: 30px;
+  justify-content: space-around;
+}
+
+.se {
+  position: absolute;
+  font-size: 30px;
+  margin-left: 680px;
+  margin-top: 5px;
+}
+
+.pp h1 {
+  color: white;
+  margin-top: -5px;
+}
+
+.boby {
+  font-size: 30px;
+  margin-left: 400px;
+  display: flex;
+  gap: 30px;
+}
+
+.y {
+  color: blue;
+}
